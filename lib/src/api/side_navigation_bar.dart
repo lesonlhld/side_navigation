@@ -76,7 +76,7 @@ class SideNavigationBar extends StatefulWidget {
 
 class _SideNavigationBarState extends State<SideNavigationBar> {
   /// TODO: Maybe find some way using layout out builder here
-  final double _minWidth = 50;
+  final double _minWidth = 70;
   final double _maxWidth = 230;
 
   /// The width of the bar used for animation
